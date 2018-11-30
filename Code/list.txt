@@ -1,0 +1,17 @@
+total 68
+drwxr-xr-x 2 daniel daniel 4096 Oct 11 21:08 Code
+drwxr-xr-x 2 daniel daniel 4096 Oct 11 19:46 Desktop
+drwxr-xr-x 5 daniel daniel 4096 Oct 11 21:18 Documents
+drwxr-xr-x 2 daniel daniel 4096 Oct 11 21:18 Downloads
+-rw-r--r-- 1 daniel daniel   17 Oct 11 21:25 echo2-out.txt
+-rw-r--r-- 1 daniel daniel   43 Oct 11 21:24 echo-out.txt
+-rw-r--r-- 1 daniel daniel 8980 Oct 11 19:22 examples.desktop
+-rw-r--r-- 1 daniel daniel    0 Oct 11 21:09 journal-2018-10-12.txt
+drwxr-xr-x 2 daniel daniel 4096 Oct 11 19:46 Music
+drwxr-xr-x 2 daniel daniel 4096 Oct 11 19:46 Pictures
+drwxr-xr-x 2 daniel daniel 4096 Oct 11 19:46 Public
+drwxr-xr-x 3 daniel daniel 4096 Oct 11 19:55 snap
+drwxr-xr-x 2 daniel daniel 4096 Oct 11 19:46 Templates
+-rw-r--r-- 1 daniel daniel  155 Oct 11 21:28 todo.txt
+drwxr-xr-x 2 daniel daniel 4096 Oct 11 19:46 Videos
+drwxr-xr-x 2 daniel daniel 4096 Oct 11 21:31 workbench

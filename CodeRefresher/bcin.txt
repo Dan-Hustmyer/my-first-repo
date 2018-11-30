@@ -1,0 +1,7 @@
+scale = 3
+var1 = 7
+print "Var 2 is: "; var2 = read()
+var1 /= var2
+var1
+print "\n"
+quit
