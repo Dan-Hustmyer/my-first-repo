@@ -1,34 +1,25 @@
-**Repo of Unix Workbench Scripts:**
+# Dan Hustmyer
 
-- Created Fall 2018
-- Dan Hustmyer
+### Geography
 
-# This is a large heading
+I live in Pleasant Ridge, Ohio. A small suburb just outside the Cincinnati city limits.
 
-## This is a smaller heading
+### Reading
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Three of my favorite books are:
 
-- This is
-- an unordered
-- list
+- *The Man in the High Castle* by Philip Dick
+- *Deathbird Stories* by Harlan Elisson
+- *Foundation* by Isaac Asimov
 
-1. This is
-2. an ordered
-3. list
+### Televison
 
-Here is `some code` in the middle of a sentence.
+My top rated shows are:
 
-```
-This is
-a block
-of code
-```
+1. Doctor Who
+2. PBS Newshour
+3. Stranger Things
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact
 
-![This is an image.](https://github.com/Dan-Hustmyer/my-first-repo/blob/master/Octocat.png)
-
+*JUST LEAVE ME ALONE*
