@@ -5,4 +5,4 @@ expr 5 + 2
 expr 5 - 2
 expr 5 \* 2
 expr 5 / 2
-expr 100 \* 10
+expr 100 + 10
